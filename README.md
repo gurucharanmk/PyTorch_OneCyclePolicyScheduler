@@ -10,3 +10,4 @@ Approach is the combination of gradually increasing learning rate (to optimal le
 - Verify initial implementation as mentioned in heder of this doc it is wip
 - Integrate [leaning rate finder](https://github.com/gurucharanmk/PyTorch_LearningRateFinder)
 - Integrate weight decay parameter, as paper sugests it needs to be constant through out of this training.
+- Source code clean-up, comments and docstrings !!
